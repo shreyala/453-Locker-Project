@@ -1,0 +1,1 @@
+This folder contains all the CAD drawings our team used in the implementation of the project.
